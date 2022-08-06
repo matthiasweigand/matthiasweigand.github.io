@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matthias Weigand"
+title: "Welcome!"
 author_profile: false
 redirect_from: 
   - /about/
