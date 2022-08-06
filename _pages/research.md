@@ -18,4 +18,4 @@ Individualism, Identity, and Institutional Stability (with Davide Cantoni and Ca
 
 Epidemics and Public Health Provision in Early Modern Europe (with Davide Cantoni and Maria Waldinger)
 
-City Rising: Inequality and Mobility in a Growing Metropolis of the 19th Century (with Mathias Bühler and Davide Cantoni)
+Inequality and Mobility in a Growing Metropolis of the 19th Century (with Mathias Bühler and Davide Cantoni)

@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a PhD student in Economics at Harvard University.
-
-In June 2018, I graduated from LMU Munich with a B.Sc. in Economics.
-
-I am interested in economic history and political economy. My research focuses on the institutional and ideological consolidation of territorial states, and on the rise of urban economies. A list of research projects can be found [here](research).
+I am a PhD student in Economics at Harvard University, focusing on economic history and political economy. A list of research projects can be found [here](research).
 
 My cv can be found [here](files/cv_weigand.pdf).

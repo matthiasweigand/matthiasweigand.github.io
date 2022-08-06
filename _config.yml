@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Matthias Weigand"
   avatar           : "profile.png"
-  #bio              : "Your biography for the left-hand sidebar"
-  #location         : "Location"
+  bio              : ""
+  location         : ""
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : mweigand@g.harvard.edu
