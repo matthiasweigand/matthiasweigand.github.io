@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthias Weigand"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Matthias Weigand"
 description              : &description "personal description"
