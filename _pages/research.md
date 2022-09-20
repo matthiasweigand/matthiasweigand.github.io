@@ -8,6 +8,7 @@ author_profile: false
 ### Working Papers
 
 [The Rise of Fiscal Capacity](../files/fiscal_capacity.pdf) (with Davide Cantoni and Cathrin Mohr)
+
 Revise and resubmit, _Econometrica_
 
 
