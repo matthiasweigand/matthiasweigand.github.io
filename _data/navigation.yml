@@ -5,3 +5,6 @@ main:
 
   - title: "Data"
     url: /data/
+
+  - title: "Media"
+    url: /media/
