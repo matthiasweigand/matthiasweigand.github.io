@@ -14,6 +14,8 @@ author_profile: false
 
 ### Work in Progress
 
+The German Colonial Enterprise, 1897--1914
+
 Socioeconomic Segregation in German Cities, 1935--1975
 
 Individualism, Identity, and Institutional Stability (with Davide Cantoni and Cathrin Mohr) ([slides](../files/identity_slides.pdf))
