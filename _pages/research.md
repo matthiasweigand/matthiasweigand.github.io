@@ -14,6 +14,8 @@ author_profile: false
 
 ### Work in Progress
 
+State Capacity, Autocracy, and the Thirty Years' War (with Luis Bosshart)
+
 The German Colonial Enterprise, 1897--1914
 
 Socioeconomic Segregation in German Cities, 1935--1975
