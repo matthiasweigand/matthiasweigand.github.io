@@ -13,7 +13,7 @@ author_profile: false
 
 [City Directories as a Source of Historical Microdata: Progress Report](../files/directories.pdf) (with Davide Cantoni and Mathias Bühler)
 
-Individualism, Identity, and Institutional Stability: Evidence from First Names in Germany, 1700--1850 (with Davide Cantoni and Cathrin Mohr) ([slides](../files/identity_slides.pdf))
+[Individualism, Identity, and Institutional Change: Evidence from First Names in Germany, 1700–1850](../files/identity.pdf) (with Davide Cantoni and Cathrin Mohr) 
 
 
 ### Work in Progress
