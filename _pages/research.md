@@ -9,7 +9,7 @@ author_profile: false
 
 [The Rise of Fiscal Capacity: Administration and State Consolidation in the Holy Roman Empire](../files/fiscal_capacity.pdf) (with Davide Cantoni and Cathrin Mohr)
 
-<sub>Conditionally accepted, _Econometrica_</sub>
+<sub>Forthcoming, _Econometrica_</sub>
 
 [City Directories as a Source of Historical Microdata: Progress Report](../files/directories.pdf) (with Davide Cantoni and Mathias Bühler)
 
@@ -18,7 +18,7 @@ author_profile: false
 
 ### Work in Progress
 
-How Autocracies Form: State Capacity, Absolutism, and the Thirty Years' War (with Luis Bosshart)
+Crisis, State Capacity, and the Making of Autocracy: A Design-based Analysis of the Thirty Years’ War (with Luis Bosshart)
 
 The German Colonial Enterprise, 1897--1914
 
