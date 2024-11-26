@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: false
 ---
 
+### Publications
+
+[The Rise of Fiscal Capacity: Administration and State Consolidation in the Holy Roman Empire](https://doi.org/10.3982/ECTA20612) (with Davide Cantoni and Cathrin Mohr) _Econometrica, 92(5), pp. 1439-1472_
+
 ### Working Papers
-
-[The Rise of Fiscal Capacity: Administration and State Consolidation in the Holy Roman Empire](../files/fiscal_capacity.pdf) (with Davide Cantoni and Cathrin Mohr)
-
-<sub>Forthcoming, _Econometrica_</sub>
 
 [City Directories as a Source of Historical Microdata: Progress Report](../files/directories.pdf) (with Davide Cantoni and Mathias Bühler)
 
