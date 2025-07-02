@@ -11,14 +11,16 @@ author_profile: false
 
 ### Working Papers
 
+[Crisis, State Capacity, and the Rise of Autocracy: A Design-based Analysis of the Thirty Years' War](../files/coalitions.pdf) (with Luis Bosshart)
+_Revise and Resubmit, Quarterly Journal of Economics_
+
+[Identity and Institutional Change: Evidence from First Names in Germany, 1700–1850](../files/identity.pdf) (with Davide Cantoni and Cathrin Mohr) 
+
 [City Directories as a Source of Historical Microdata: Progress Report](../files/directories.pdf) (with Davide Cantoni and Mathias Bühler)
 
-[Individualism, Identity, and Institutional Change: Evidence from First Names in Germany, 1700–1850](../files/identity.pdf) (with Davide Cantoni and Cathrin Mohr) 
 
 
 ### Work in Progress
-
-Crisis, State Capacity, and the Making of Autocracy: A Design-based Analysis of the Thirty Years’ War (with Luis Bosshart)
 
 The German Colonial Enterprise, 1897--1914
 
