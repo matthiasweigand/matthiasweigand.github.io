@@ -24,7 +24,9 @@ _Revise and Resubmit, Quarterly Journal of Economics_
 
 ### Work in Progress
 
-The Inefficacy of Party Bans: Evidence from 128 Countries (with Andrew Kao).
+Coordination and Collusion: German Industrialization, 1882--1945 (with Luis Bosshart).
+
+<!-- The Inefficacy of Party Bans: Evidence from 128 Countries (with Andrew Kao). -->
 
 <!-- 
 The German Colonial Enterprise, 1897--1914
