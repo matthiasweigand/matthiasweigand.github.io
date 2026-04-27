@@ -16,7 +16,7 @@ _Revise and Resubmit, Quarterly Journal of Economics_
 
 [Identity and Institutional Change: Evidence from First Names in Germany, 1700–1850](../files/identity.pdf) (with Davide Cantoni and Cathrin Mohr) _Reject and Resubmit, American Economic Review_ ([WP](https://ideas.repec.org/p/rco/dpaper/545.html))
 
-[Hysteresis and Selection in the Rise of Fascism: The ‘Ordinary Men’ of the Nazi Party](../files/nsdap.pdf) (with Luis Bosshart, Max Deter, Leander Heldring, and Cathrin Mohr) ([WP](arxiv.org/abs/2604.17697a))
+[Hysteresis and Selection in the Rise of Fascism: The ‘Ordinary Men’ of the Nazi Party](../files/nsdap.pdf) (with Luis Bosshart, Max Deter, Leander Heldring, and Cathrin Mohr) ([NBER WP](https://www.nber.org/papers/w35120), [ungated version](arxiv.org/abs/2604.17697a))
 
 [The Success of the Embedded State in England](../files/local_government.pdf) (with Leander Heldring, Davis Kedrosky, and James A. Robinson)
 
