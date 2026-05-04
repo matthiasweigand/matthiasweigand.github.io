@@ -18,13 +18,13 @@ _Revise and Resubmit, Quarterly Journal of Economics_
 
 [Hysteresis and Selection in the Rise of Fascism: The ‘Ordinary Men’ of the Nazi Party](../files/nsdap.pdf) (with Luis Bosshart, Max Deter, Leander Heldring, and Cathrin Mohr) ([NBER WP](https://www.nber.org/papers/w35120), [ungated version](arxiv.org/abs/2604.17697a))
 
-[The Success of the Embedded State in England](../files/local_government.pdf) (with Leander Heldring, Davis Kedrosky, and James A. Robinson)
+[The Success of the Embedded State in England](../files/local_government.pdf) (with Leander Heldring, Davis Kedrosky, and James A. Robinson) ([NBER WP](https://www.nber.org/papers/w35130))
 
 [City Directories as a Source of Historical Microdata: Progress Report](../files/directories.pdf) (with Davide Cantoni and Mathias Bühler)
 
 ### Work in Progress
 
-Coordination and Collusion: German Industrialization, 1882--1945 (with Luis Bosshart).
+Coordination and Collusion in Industrial Development (with Luis Bosshart).
 
 <!-- The Inefficacy of Party Bans: Evidence from 128 Countries (with Andrew Kao). -->
 
